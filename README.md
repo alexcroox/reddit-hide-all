@@ -7,7 +7,7 @@ Then on the next visit/refresh you'll see new content instead of the same posts 
 
 ## Installing
 
-Visit URL `chrome://extensions/` and drag and drop the [RedditHideAll.crx](https://raw.github.com/alexcroox/RedditHideAll/master/RedditHideAll.crx) file.
+Install from the [Google Chrome Web Store](https://chrome.google.com/webstore/detail/reddithideall/klcgcmiobgnaehmhggejjjinbbfomeie?authuser=2)
 
 
 ## Using
